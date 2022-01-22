@@ -11,4 +11,5 @@
 - In contrast, unstructured data refers to things like audio, raw audio or images where you might want to recognize whats in the image. The features might be the pixel values in an image or the individual works in a piece of text.
 - Why Neural Network takes off in recent years:
 ![image](https://user-images.githubusercontent.com/60442877/150638453-04160287-a414-4e8a-a201-0e1fee5860ab.png)
+![image](https://user-images.githubusercontent.com/60442877/150638473-a615d0a2-4652-4d9f-ae95-f9424dd47a88.png)
 - One of the huge breakthroughs in Neural Networks is the switching from the sigmoid activation function to the ReLU activation function. And this switch make gradient descent worksd much faster 

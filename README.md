@@ -53,6 +53,21 @@ The cost function is the expectation of loss function, thus, in practice, it is 
 ![image](https://user-images.githubusercontent.com/60442877/150676083-0c2f8ac9-c8d3-4d5e-8b13-28b1cbf74f41.png)
 
 
+# Week 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

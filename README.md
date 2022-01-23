@@ -25,6 +25,8 @@ The cost function is the expectation of loss function, thus, in practice, it is 
 - Logistic Regression is an algorithm for binary classification 
 - Let's look at how an image is represented in a computer. To store an image, the computer stores three separater matrices corresponding to the red, green, and blue color channels fo this image. So, if your input image is 64x64 pixels, then, you would have 3 64x64 matrices corresponding to the red, green, and blue pixel intensity values for your images.
 ![image](https://user-images.githubusercontent.com/60442877/150640109-4bcb969d-3487-49aa-ad91-d3d57a92299b.png)
+![image](https://user-images.githubusercontent.com/60442877/150675287-43d1b9a8-7353-4966-922c-a76c7e2b16be.png)
+
 - So, to turn these pixel intensity values into a feature vector, we will unroll all of these pixel intensity values into an input feature vector x by rows from red, then green, to blue matrices. If the image is 64x64 pixels, then, the toal dimention of this feature vector is 3x64x64.
 - In Python of Neural Networks and Deep Learning, the shape of X (traning or testing data) is nxm, where n is the dimension of feature vector and m is the number of data. So this type of setting in X is different from the traditional X. In the same way, the y (observation) is 1xm which is different from the traditional setting
 - logistic function or sigmoid function can be used to help us transform the output value of a linear function into probability value

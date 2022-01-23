@@ -17,6 +17,9 @@
 3. We have access to a lot more data.
 - One of the huge breakthroughs in Neural Networks is the switching from the sigmoid activation function to the ReLU activation function. And this switch make gradient descent worksd much faster 
 
+![image](https://user-images.githubusercontent.com/60442877/150673774-ea8bf526-fead-40b5-8f43-5bc304346a2e.png)
+
+
 # Week 2
 
 - Logistic Regression is an algorithm for binary classification 
@@ -28,4 +31,5 @@
 - Loss function, denoted by 'L', can measure how well you are doing on a single observation, for classification, the loss function is -log(p) in which, p is the predicted probability being the true label on that single observation, for regression, the loss function is the square of the residual
 - Cost function, denoted by 'J', can measure how well you are doing on a whole traning dataset, the cost function is the average of the loss functions
 - Vectorization will help you run your algrotihm way more faster than just for loop
+
 

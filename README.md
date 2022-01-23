@@ -18,7 +18,7 @@
 - One of the huge breakthroughs in Neural Networks is the switching from the sigmoid activation function to the ReLU activation function. And this switch make gradient descent worksd much faster 
 
 ![image](https://user-images.githubusercontent.com/60442877/150673774-ea8bf526-fead-40b5-8f43-5bc304346a2e.png)
-
+The cost function is the expectation of loss function, thus, in practice, it is the average of loss function in the training dataset
 
 # Week 2
 

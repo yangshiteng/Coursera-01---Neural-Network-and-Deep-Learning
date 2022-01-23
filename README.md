@@ -23,7 +23,7 @@ The cost function is the expectation of loss function, thus, in practice, it is 
 # Week 2
 
 - Logistic Regression is an algorithm for binary classification 
-- Let's look at how an image is represented in a computer. To store an image, the computer stores three separater matrices corresponding to the red, green, and blue color channels fo this image. So, if your input image is 64x64 pixels, then, you would have 3 64x64 matrices corresponding to the red, green, and blue pixel intensity values for your images.
+- Let's look at how an image is represented in a computer. To store an image, the computer stores three separater matrices corresponding to the red, green, and blue color channels fo this image. So, if your input image is 64x64 pixels, then, you would have 3 64x64 matrices corresponding to the red, green, and blue (RGB) pixel intensity values for your images.
 ![image](https://user-images.githubusercontent.com/60442877/150640109-4bcb969d-3487-49aa-ad91-d3d57a92299b.png)
 ![image](https://user-images.githubusercontent.com/60442877/150675287-43d1b9a8-7353-4966-922c-a76c7e2b16be.png)
 

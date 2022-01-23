@@ -34,4 +34,26 @@ The cost function is the expectation of loss function, thus, in practice, it is 
 - Cost function, denoted by 'J', can measure how well you are doing on a whole traning dataset, the cost function is the average of the loss functions
 - Vectorization will help you run your algrotihm way more faster than just for loop
 
+## Python Code to transform image data into one column vector
+
+![image](https://user-images.githubusercontent.com/60442877/150675494-17479e7c-de1b-41f2-93ed-ee8906ed2c63.png)
+
+## Normalization (with the numpy broadcasting technique)
+
+![image](https://user-images.githubusercontent.com/60442877/150675622-bea915ab-2d2b-4d65-947f-12f230b32fa8.png)
+
+![image](https://user-images.githubusercontent.com/60442877/150675715-8bcff823-af96-4f54-8e8d-192a02352ae1.png)
+
+![image](https://user-images.githubusercontent.com/60442877/150675794-b35a29ac-18bd-44e0-bfa7-ec0ebc8895d8.png)
+
+## SoftMax
+
+![image](https://user-images.githubusercontent.com/60442877/150675871-acf524c2-adc7-4d43-a6d5-3b6a29c8b341.png)
+![image](https://user-images.githubusercontent.com/60442877/150676043-33bd20fd-ec86-4cbb-8397-712c3a7814c2.png)
+![image](https://user-images.githubusercontent.com/60442877/150676083-0c2f8ac9-c8d3-4d5e-8b13-28b1cbf74f41.png)
+
+
+
+
+
 

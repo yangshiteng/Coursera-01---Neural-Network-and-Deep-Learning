@@ -66,6 +66,11 @@ The cost function is the expectation of loss function, thus, in practice, it is 
 4. Leaky ReLU function: f(x) = max(0.01x,x)
 - All activation functions are Non-linear
 
+## Neural Network for binary classification 
+
+![image](https://user-images.githubusercontent.com/60442877/150766282-9672c34c-3389-45c5-85ac-e2a22f6c45c6.png)
+
+In the output layer, we have single neuron there, and we calculate the Wa+b, and put it into the activation function for the final result
 
 
 

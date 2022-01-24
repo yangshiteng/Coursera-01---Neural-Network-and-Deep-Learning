@@ -55,10 +55,16 @@ The cost function is the expectation of loss function, thus, in practice, it is 
 
 # Week 3
 
-
-
-
-
+- When count the number of Neural Networks, we usually don't count input layer
+- Use the ReLU activation function will make your Neural Networks way more faster than other types of activation function such as sigmoid function
+- Never use sigmoid activation function except for the output layer of binary classification
+- The most commonly used activation function is ReLU function
+- Activation function types:
+1. Sigmoid Function: f(x) = 1/(1+exp(-x))
+2. Tanh Function: f(x) = (exp(x)-exp(-x))/(exp(x)+exp(-x))
+3. ReLU function: f(x) = max(0,x)
+4. Leaky ReLU function: f(x) = max(0.01x,x)
+- All activation functions are Non-linear
 
 
 

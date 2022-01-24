@@ -75,7 +75,7 @@ In the output layer, we have single neuron there, and we calculate the Wa+b, and
 - For logistic regression, it's ok to initialize 0 for weights
 - For Neural Network, it is not ok to initialize 0 for weights, instead, we take random initialization from Gausian normal
 
-
+Unlike logistic regression, neural networks are able to learn even highly non-linear decision boundaries.
 
 
 

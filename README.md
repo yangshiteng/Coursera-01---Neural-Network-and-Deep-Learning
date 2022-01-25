@@ -78,7 +78,22 @@ In the output layer, we have single neuron there, and we calculate the Wa+b, and
 Unlike logistic regression, neural networks are able to learn even highly non-linear decision boundaries.
 
 
+# Week 4
 
+- The activation function can be different for different layers
+- For binary classification, in the output layer, the activation function should be sigmoid function for 0 and 1 labels
+- Hyper-prameters:
+1. Learning rate
+2. number of iterations
+3. number of hidden layers
+4. number of hidden units
+5. choice of activation function
+
+Dimension for forward propagation:
+![image](https://user-images.githubusercontent.com/60442877/150995905-3975e8eb-65ab-4a5b-84f4-b27ecc3a6166.png)
+
+The formula for backward propagation:
+![image](https://user-images.githubusercontent.com/60442877/150994510-db07bd64-d451-4424-972b-c9725f313933.png)
 
 
 

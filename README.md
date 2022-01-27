@@ -95,7 +95,12 @@ Dimension for forward propagation:
 The formula for backward propagation:
 ![image](https://user-images.githubusercontent.com/60442877/150994510-db07bd64-d451-4424-972b-c9725f313933.png)
 
+# Convolutional Neural Networks
 
+https://www.cs.ryerson.ca/~aharley/neural-networks/
 
+https://cs231n.github.io/neural-networks-case-study/
+
+https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current
 
 
